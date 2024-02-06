@@ -1,0 +1,32 @@
+[
+    {
+        "productName": "Iphone",
+        "categoryId": 7766,
+        "count": 3
+    },
+    {
+        "productName": "Samsung",
+        "categoryId": 7766,
+        "count": 1
+    },
+    {
+        "productName": "Malibu",
+        "categoryId": 5544,
+        "count": 2
+    },
+    {
+        "productName": "Rubashka",
+        "categoryId": "3322",
+        "count": 3
+    },
+    {
+        "productName": "Redmi",
+        "categoryId": "7766",
+        "count": 6
+    },
+    {
+        "productName": "Xiaomi",
+        "categoryId": "7766",
+        "count": 1
+    }
+]

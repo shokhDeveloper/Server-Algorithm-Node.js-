@@ -1,0 +1,21 @@
+[
+    {
+        "categoryName": "electronics",
+        "categoryId": "7766",
+        "count": 0
+    },
+    {
+        "categoryName": "vehicals",
+        "categoryId": "5544",
+        "count": 0
+    },
+    {
+        "categoryName": "clothes",
+        "categoryId": "3322",
+        "count": 0
+    },
+    {
+        "categoryName": "products",
+        "categoryId": "6268"
+    }
+]
